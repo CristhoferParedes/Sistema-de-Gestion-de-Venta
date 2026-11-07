@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristhofer\\Documents\\cristhofercosas\\personal\\F Personales\\Proyectos Personales\\Sistema de Gestion de Venta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{795E7ECC-41C0-4CAA-AB2A-9E66EB4EB0C1}|Sistema de Gestion de Venta.csproj|c:\\users\\cristhofer\\documents\\cristhofercosas\\personal\\f personales\\proyectos personales\\sistema de gestion de venta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795E7ECC-41C0-4CAA-AB2A-9E66EB4EB0C1}|Sistema de Gestion de Venta.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795E7ECC-41C0-4CAA-AB2A-9E66EB4EB0C1}|Sistema de Gestion de Venta.csproj|c:\\users\\cristhofer\\documents\\cristhofercosas\\personal\\f personales\\proyectos personales\\sistema de gestion de venta\\entity\\boleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795E7ECC-41C0-4CAA-AB2A-9E66EB4EB0C1}|Sistema de Gestion de Venta.csproj|solutionrelative:entity\\boleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795E7ECC-41C0-4CAA-AB2A-9E66EB4EB0C1}|Sistema de Gestion de Venta.csproj|c:\\users\\cristhofer\\documents\\cristhofercosas\\personal\\f personales\\proyectos personales\\sistema de gestion de venta\\entity\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795E7ECC-41C0-4CAA-AB2A-9E66EB4EB0C1}|Sistema de Gestion de Venta.csproj|solutionrelative:entity\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795E7ECC-41C0-4CAA-AB2A-9E66EB4EB0C1}|Sistema de Gestion de Venta.csproj|c:\\users\\cristhofer\\documents\\cristhofercosas\\personal\\f personales\\proyectos personales\\sistema de gestion de venta\\entity\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795E7ECC-41C0-4CAA-AB2A-9E66EB4EB0C1}|Sistema de Gestion de Venta.csproj|solutionrelative:entity\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795E7ECC-41C0-4CAA-AB2A-9E66EB4EB0C1}|Sistema de Gestion de Venta.csproj|c:\\users\\cristhofer\\documents\\cristhofercosas\\personal\\f personales\\proyectos personales\\sistema de gestion de venta\\utility\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795E7ECC-41C0-4CAA-AB2A-9E66EB4EB0C1}|Sistema de Gestion de Venta.csproj|solutionrelative:utility\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795E7ECC-41C0-4CAA-AB2A-9E66EB4EB0C1}|Sistema de Gestion de Venta.csproj|c:\\users\\cristhofer\\documents\\cristhofercosas\\personal\\f personales\\proyectos personales\\sistema de gestion de venta\\view\\opcionventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795E7ECC-41C0-4CAA-AB2A-9E66EB4EB0C1}|Sistema de Gestion de Venta.csproj|solutionrelative:view\\opcionventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795E7ECC-41C0-4CAA-AB2A-9E66EB4EB0C1}|Sistema de Gestion de Venta.csproj|c:\\users\\cristhofer\\documents\\cristhofercosas\\personal\\f personales\\proyectos personales\\sistema de gestion de venta\\view\\opcionregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795E7ECC-41C0-4CAA-AB2A-9E66EB4EB0C1}|Sistema de Gestion de Venta.csproj|solutionrelative:view\\opcionregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhofer\\Documents\\cristhofercosas\\personal\\F Personales\\Proyectos Personales\\Sistema de Gestion de Venta\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Cristhofer\\Documents\\cristhofercosas\\personal\\F Personales\\Proyectos Personales\\Sistema de Gestion de Venta\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T10:20:45.108Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Boleta.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhofer\\Documents\\cristhofercosas\\personal\\F Personales\\Proyectos Personales\\Sistema de Gestion de Venta\\Entity\\Boleta.cs",
+              "RelativeDocumentMoniker": "Entity\\Boleta.cs",
+              "ToolTip": "C:\\Users\\Cristhofer\\Documents\\cristhofercosas\\personal\\F Personales\\Proyectos Personales\\Sistema de Gestion de Venta\\Entity\\Boleta.cs",
+              "RelativeToolTip": "Entity\\Boleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T14:23:08.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhofer\\Documents\\cristhofercosas\\personal\\F Personales\\Proyectos Personales\\Sistema de Gestion de Venta\\Utility\\Validation.cs",
+              "RelativeDocumentMoniker": "Utility\\Validation.cs",
+              "ToolTip": "C:\\Users\\Cristhofer\\Documents\\cristhofercosas\\personal\\F Personales\\Proyectos Personales\\Sistema de Gestion de Venta\\Utility\\Validation.cs",
+              "RelativeToolTip": "Utility\\Validation.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:11:56.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhofer\\Documents\\cristhofercosas\\personal\\F Personales\\Proyectos Personales\\Sistema de Gestion de Venta\\Entity\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entity\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Cristhofer\\Documents\\cristhofercosas\\personal\\F Personales\\Proyectos Personales\\Sistema de Gestion de Venta\\Entity\\Cliente.cs",
+              "RelativeToolTip": "Entity\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T23:25:08.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OpcionVentas.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhofer\\Documents\\cristhofercosas\\personal\\F Personales\\Proyectos Personales\\Sistema de Gestion de Venta\\View\\OpcionVentas.cs",
+              "RelativeDocumentMoniker": "View\\OpcionVentas.cs",
+              "ToolTip": "C:\\Users\\Cristhofer\\Documents\\cristhofercosas\\personal\\F Personales\\Proyectos Personales\\Sistema de Gestion de Venta\\View\\OpcionVentas.cs",
+              "RelativeToolTip": "View\\OpcionVentas.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwC0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T09:44:36.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OpcionRegistrar.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhofer\\Documents\\cristhofercosas\\personal\\F Personales\\Proyectos Personales\\Sistema de Gestion de Venta\\View\\OpcionRegistrar.cs",
+              "RelativeDocumentMoniker": "View\\OpcionRegistrar.cs",
+              "ToolTip": "C:\\Users\\Cristhofer\\Documents\\cristhofercosas\\personal\\F Personales\\Proyectos Personales\\Sistema de Gestion de Venta\\View\\OpcionRegistrar.cs",
+              "RelativeToolTip": "View\\OpcionRegistrar.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T08:58:59.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhofer\\Documents\\cristhofercosas\\personal\\F Personales\\Proyectos Personales\\Sistema de Gestion de Venta\\Entity\\Producto.cs",
+              "RelativeDocumentMoniker": "Entity\\Producto.cs",
+              "ToolTip": "C:\\Users\\Cristhofer\\Documents\\cristhofercosas\\personal\\F Personales\\Proyectos Personales\\Sistema de Gestion de Venta\\Entity\\Producto.cs",
+              "RelativeToolTip": "Entity\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T21:12:20.001Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

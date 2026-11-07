@@ -1,0 +1,14 @@
+C:\Users\Cristhofer\Desktop\CristhProyectos\Sistema de Gestion de Venta\obj\Debug\net8.0\Sistema de Gestion de Venta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristhofer\Desktop\CristhProyectos\Sistema de Gestion de Venta\obj\Debug\net8.0\Sistema de Gestion de Venta.AssemblyInfoInputs.cache
+C:\Users\Cristhofer\Desktop\CristhProyectos\Sistema de Gestion de Venta\obj\Debug\net8.0\Sistema de Gestion de Venta.AssemblyInfo.cs
+C:\Users\Cristhofer\Desktop\CristhProyectos\Sistema de Gestion de Venta\obj\Debug\net8.0\Sistema de Gestion de Venta.csproj.CoreCompileInputs.cache
+C:\Users\Cristhofer\Desktop\CristhProyectos\Sistema de Gestion de Venta\bin\Debug\net8.0\Sistema de Gestion de Venta.exe
+C:\Users\Cristhofer\Desktop\CristhProyectos\Sistema de Gestion de Venta\bin\Debug\net8.0\Sistema de Gestion de Venta.deps.json
+C:\Users\Cristhofer\Desktop\CristhProyectos\Sistema de Gestion de Venta\bin\Debug\net8.0\Sistema de Gestion de Venta.runtimeconfig.json
+C:\Users\Cristhofer\Desktop\CristhProyectos\Sistema de Gestion de Venta\bin\Debug\net8.0\Sistema de Gestion de Venta.dll
+C:\Users\Cristhofer\Desktop\CristhProyectos\Sistema de Gestion de Venta\bin\Debug\net8.0\Sistema de Gestion de Venta.pdb
+C:\Users\Cristhofer\Desktop\CristhProyectos\Sistema de Gestion de Venta\obj\Debug\net8.0\Sistema de Gestion de Venta.dll
+C:\Users\Cristhofer\Desktop\CristhProyectos\Sistema de Gestion de Venta\obj\Debug\net8.0\refint\Sistema de Gestion de Venta.dll
+C:\Users\Cristhofer\Desktop\CristhProyectos\Sistema de Gestion de Venta\obj\Debug\net8.0\Sistema de Gestion de Venta.pdb
+C:\Users\Cristhofer\Desktop\CristhProyectos\Sistema de Gestion de Venta\obj\Debug\net8.0\Sistema de Gestion de Venta.genruntimeconfig.cache
+C:\Users\Cristhofer\Desktop\CristhProyectos\Sistema de Gestion de Venta\obj\Debug\net8.0\ref\Sistema de Gestion de Venta.dll
